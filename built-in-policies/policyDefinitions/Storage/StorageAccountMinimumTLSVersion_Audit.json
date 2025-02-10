@@ -64,7 +64,7 @@
       }
     },
     "versions": [
-      "1.0.0"
+      "1.1.0"
     ]
   },
   "id": "/providers/Microsoft.Authorization/policyDefinitions/fe83a0eb-a853-422d-aac2-1bffd182c5d0",
