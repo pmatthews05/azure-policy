@@ -5,10 +5,10 @@
     "mode": "Indexed",
     "description": "Configure a minimum TLS version for secure communication between the client application and the storage account. To minimize security risk, the recommended minimum TLS version is the latest released version, which is currently TLS 1.2.",
     "metadata": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "category": "Storage"
     },
-    "version": "1.0.0",
+    "version": "1.1.0",
     "parameters": {
       "effect": {
         "type": "String",
